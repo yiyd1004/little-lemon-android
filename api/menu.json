@@ -4,7 +4,7 @@
       "title": "Greek Salad",
       "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
       "price": 12.99,
-      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/greek-salad.jpg",
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/greek-salad.png",
       "category": "starters"
     },
     {

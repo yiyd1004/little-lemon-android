@@ -4,7 +4,7 @@
       "title": "Greek Salad",
       "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
       "price": 12.99,
-      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/blob/main/api/images/greek-salad.jpg",
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/greek-salad.jpg",
       "category": "starters"
     },
     {
@@ -18,7 +18,7 @@
       "title": "Grilled Fish",
       "description": "Fantastic grilled fish seasoned with salt.",
       "price": 20.00,
-      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/blob/main/api/images/grilled-fish.png",
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/grilled-fish.png",
       "category": "mains"
     },
     {
@@ -53,8 +53,8 @@
       "title": "Water",
       "description": "Bottled Water: Crisp, clean, and refreshing hydration. Served chilled.",
       "price": 0.99,
-      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/blob/main/api/images/water.jpg",
-      "category": "desserts"
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/water.jpg",
+      "category": "drinks"
     }
   ]
 }

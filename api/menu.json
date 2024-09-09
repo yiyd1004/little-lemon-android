@@ -1,0 +1,60 @@
+{
+  "menu": [
+    {
+      "title": "Greek Salad",
+      "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
+      "price": 12.99,
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/blob/main/api/images/greek-salad.jpg",
+      "category": "starters"
+    },
+    {
+      "title": "Bruschetta",
+      "description": "Oven-baked bruschetta stuffed with tomatos and herbs.",
+      "price": 7.99,
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/bruchetta.png",
+      "category": "starters"
+    },
+    {
+      "title": "Grilled Fish",
+      "description": "Fantastic grilled fish seasoned with salt.",
+      "price": 20.00,
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/blob/main/api/images/grilled-fish.png",
+      "category": "mains"
+    },
+    {
+      "title": "Pasta",
+      "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chilli, garlic, basil & salted ricotta cheese.",
+      "price": 6.99,
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/pasta.png",
+      "category": "mains"
+    },
+    {
+      "title": "Lemon Desert",
+      "description": "Traditional homemade Italian Lemon Ricotta Cake.",
+      "price": 4.99,
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/lemon-dessert.jpg",
+      "category": "desserts"
+    },
+    {
+      "title": "Coca Cola",
+      "description": "A refreshing, classic soft drink with a perfect balance of sweetness and fizz. Served chilled.",
+      "price": 1.45,
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/coke.webp",
+      "category": "drinks"
+    },
+    {
+      "title": "Coffee",
+      "description": "Freshly brewed coffee: Rich, aromatic, and bold, made from premium beans. Served hot or iced.",
+      "price": 4.99,
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/main/api/images/coffee.jpg",
+      "category": "drinks"
+    },
+    {
+      "title": "Water",
+      "description": "Bottled Water: Crisp, clean, and refreshing hydration. Served chilled.",
+      "price": 0.99,
+      "image": "https://raw.githubusercontent.com/yiyd1004/little-lemon-android/blob/main/api/images/water.jpg",
+      "category": "desserts"
+    }
+  ]
+}
